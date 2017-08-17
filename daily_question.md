@@ -1,7 +1,6 @@
 ---
 title: daily_question
 tags: 问题,讨论,日常问题
-grammar_cjkRuby: true
 ---
 
 ## 2017.08.16 question
