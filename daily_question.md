@@ -8,7 +8,7 @@ tags: 问题,讨论,日常问题
 * 什么是tcp、udp，以及区别；udp比tcp传输快，快在哪里？ 
 * 三次握手、四次挥手图文讲解
 
-> answer： TODO
+> answer：  [socket理解 by hetaoo](https://github.com/hetaoo/daily_discussion/blob/master/socket_by_hetaoo.md)
 
 ## 2017.08.17 question
 * IO

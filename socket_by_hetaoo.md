@@ -61,7 +61,8 @@ udp和tcp很大的区别就是服务端和客户端不需要建立连接，所�
 
 ### UDP和TCP比较
 
-|内容|TCP|UDP|
+内容|TCP|UDP
+------------ | ------------- | -------------
 |对系统要求|较多|较少|
 |程序结构|复杂|简单|
 |数据正确性|保证|不保证|
@@ -154,4 +155,5 @@ CLOSED->LISTEN->SYN收到->ESTABLISHED->CLOSE_WAIT->LAST_ACK->CLOSED
   [5]: https://www.github.com/hetaoo/daily_discussion/raw/master/image/1503037640845.jpg
   [6]: https://www.github.com/hetaoo/daily_discussion/raw/master/image/1503039855509.jpg
   [7]: https://www.github.com/hetaoo/daily_discussion/raw/master/image/1503042899146.jpg
+
   [8]: https://www.github.com/hetaoo/daily_discussion/raw/master/image/1503043085258.jpg
