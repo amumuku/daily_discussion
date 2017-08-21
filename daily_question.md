@@ -15,4 +15,4 @@ tags: 问题,讨论,日常问题
 * BIO
 * NIO
 
-> answer： TODO
+> answer： [io操作理解 by amumuku](https://github.com/amumuku/daily_discussion/daily_discussion/io by amumuku.md)
