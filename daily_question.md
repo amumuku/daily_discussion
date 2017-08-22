@@ -16,3 +16,9 @@ tags: 问题,讨论,日常问题
 * NIO
 
 > answer： [answer IO by amumuku](https://github.com/amumuku/daily_discussion/blob/master/io%20by%20amumuku.md) 
+
+## 2017.08.22 question
+* 搭mysql主从复制
+* 搭服务器集群
+* 搭redis集群
+* 搭solr集群
