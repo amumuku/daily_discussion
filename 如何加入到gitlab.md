@@ -1,5 +1,5 @@
 ---
-title: 如何加入到gitlab 
+title: how to join gitlab 
 ---
 # 生成一个公钥
 
