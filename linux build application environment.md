@@ -70,7 +70,7 @@ grammar_cjkRuby: true
 			关闭：setenforce 0
 			查看：getenforce
 	4.3.	授权远程连接
-			GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' 				IDENTIFIED BY 'root' WITH GRANT OPTION;
+			GRANT ALL PRIVILEGES ON *.* TO 'root'@'%'IDENTIFIED BY 'root' WITH GRANT OPTION;
 			flush privileges;
 *5.	用sqlyong（或者其他工具）链接mysql服务器*
 
